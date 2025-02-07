@@ -1,1 +1,0 @@
-curl -X POST "http://129.12.19.62/api/library" -H  "accept: application/json" -H  "Content-Type: multipart/form-data" -F "files=@47.htz" -F "name=47" -F "oldMediaId=47" -F "updateInLayouts=1" -F "deleteOldRevisions=1"

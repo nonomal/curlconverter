@@ -1,9 +1,0 @@
-version: 2
-requests:
-  curl_converter:
-    request:
-      url: 'http://a.com'
-      method: POST
-      postData:
-        mimeType: application/json
-        text: 123
